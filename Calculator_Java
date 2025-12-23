@@ -18,5 +18,8 @@ public class Main {
         else if (op == '/'){
             System.out.println(n1/n2);
         }
+        else{
+            System.out.println("Invalid operator");
+        }
     }
 }
